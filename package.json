@@ -1,0 +1,11 @@
+{
+  "name": "aws-sdk-play",
+  "version": "0.0.1",
+  "description": "Experimenting with the AWS javascript SDK.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jefferson wu <makerjeffwu@gmail.com>",
+  "license": "ISC"
+}
